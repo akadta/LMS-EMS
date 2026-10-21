@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+bin/
+obj/
+.vs/
+uploads/
+appsettings.Development.json
+
+backup/
+*.zip
+
+backup/
+*.zip
+storage/
